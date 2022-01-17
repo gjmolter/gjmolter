@@ -1,12 +1,11 @@
 ### Hey, I'm Gabriel 👋
 
-- 🚀 I’m currently working as a Web Developer at Ballistic Arts
-- 🌱 I’m constantly studying and learning more about the world of Web Development, and I try to pass on that knowledge as much as I can
+🚀 I’m currently working as a Web Developer at [Ballistic Arts](//ballisticarts.com)
+🌱 I’m constantly studying and learning more about the world of Web Development, and I try to pass on that knowledge as much as I can
+📫 [me@gabrielmolter.com]
+🌐 [gabrielmolter.com]
 
-- 📫 me@gabrielmolter.com
-- 🌐 gabrielmolter.com
-
-<div style="display: inline_block" aria-label="Technologies I work with:"><br>
+<div style="display: inline-block; margin-bottom: 2em;" aria-label="Technologies I work with:"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
