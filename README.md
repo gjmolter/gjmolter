@@ -2,7 +2,7 @@
 
 
 🚀 I’m currently working as a Web Developer at [Ballistic Arts](//ballisticarts.com)  
-🌱 I’m constantly studying and learning more about the world of Web Development, and I try to pass on that knowledge as much as I can  
+🌱 I’m constantly studying and learning more about the world of Web Development, and I try to pass that knowledge on as much as I can  
   
   
 📫 Email: [me@gabrielmolter.com](mailto:me@gabrielmolter.com)  
